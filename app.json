@@ -8,39 +8,39 @@
   "env": {
     "TaskId": {
       "description": "T. TaskId ",
-      "value": "601"
+      "value": "115"
     },
     "Digest": {
       "description": "T. Digest ",
-      "value": "nv0zSpTFDSJdff76+z46fLg/9sc="
+      "value": "szP5HUxFvq37g+lc6A02mEazEdk="
     },
     "Auth_Token":  {
       "description": "T. Auth_Token ",
-      "value": "CjD1NzVJVZohkWPZ0aUrZwFikrW80+ygq2NME/Y0wyLeud44XZEPccegc725zwUN8/ISOAgAEAAaEESgtuLO+skTyzKA9FwgZYUiIH9qZ06tk/ERP7ery565IczysKo7qPoiXyaZD5/TJdovElgIARAAGjDhaK6OsSukrmQZxNnaagCOmrfE4ZagunOsDJONElNbw944XZEPccegc725zwUN8/IiIIfwK9/O671EWzhmlNu4tsHT2kwQSQ3U/mrn+/49EU6LGhAFajQKAI9GfvfA4Maqoggq"
+      "value": "CjD5KxPO1ThbjDQHpasQOXzpI2G8J4qnPSkRHGxZCwP6J944XZEPccegc725zwUN8/ISOAgAEAAaEJEXaE7Zk3azDEJZBk1Y1/UiIDcvkZkvxM8/Dpv1D2CH5+mM6s76EoRlllpVc1DrBI7hElgIARAAGjDr2m9sHMo1EN4Ea3skFbHlklrCFrQDLHX2MG/1RDGyEd44XZEPccegc725zwUN8/IiICpKusSlZF/EjPw/d9L27QmTLAt3fukRlYzKScfa2UZ3GhAFajQKAI9GfvfA4Maqoggq"
     },
     "BOT_TOKEN1":{
       "description": "TOKEN BOT 1 QUE VAI ENVIAR O LINKS",
-      "value": "1714120096:AAFdfMaN9u6tvuV5o7nKGIBbzkV6J0LmOeg"
+      "value": "1789759284:AAFHBFwdG0chvdqXgF499KJeWHkjqn_8CSY"
     },
     "CANALID":  {
       "description": "CANAL QUE VAI RECEBER ON LINKS",
-      "value": "-1001191719916"
+      "value": "-1001388469882"
     },
     "API_ID":{
       "description": "API_ID app.telegram.me",
-      "value": "299166"
+      "value": "1482617"
     },
     "API_HASH":  {
       "description": "API_HASH app.telegram.me",
-      "value": "87aeccb44b9d36d5622d8c1a3e145362"
+      "value": "0bc8fc410745e086793877c078291a1d"
     },
     "BOT_TOKEN2":{
       "description": "TOKEN BOT 2 QUE VAI ENVIAR OS VIDEOS",
-      "value": "1511447548:AAEZPle3hjvUfQ__rohUXYTaG9Kg7CCTLMc"
+      "value": "1755940325:AAESwksWO3z5rXDmkGmudgNMPSBBTtsaW6g"
     },
     "CANAL_Sendvideo":  {
       "description": "CHAT_ID DO CANAL Q VAI RECEBER OS VIDEOS",
-      "value": "-1001344991906"
+      "value": "-1001251071964"
     }
   },
   "addons": [
