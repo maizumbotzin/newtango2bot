@@ -20,7 +20,7 @@
     },
     "BOT_TOKEN1":{
       "description": "TOKEN BOT 1 QUE VAI ENVIAR O LINKS",
-      "value": "1789759284:AAFHBFwdG0chvdqXgF499KJeWHkjqn_8CSY"
+      "value": "1718516623:AAGDyuqTrWN7UIFvq15eft-lFo0FD3OMUAI"
     },
     "CANALID":  {
       "description": "CANAL QUE VAI RECEBER ON LINKS",
@@ -28,15 +28,15 @@
     },
     "API_ID":{
       "description": "API_ID app.telegram.me",
-      "value": "1482617"
+      "value": "4142337"
     },
     "API_HASH":  {
       "description": "API_HASH app.telegram.me",
-      "value": "0bc8fc410745e086793877c078291a1d"
+      "value": "f25434cc045a5644e7a7894604f5ee78"
     },
     "BOT_TOKEN2":{
       "description": "TOKEN BOT 2 QUE VAI ENVIAR OS VIDEOS",
-      "value": "1755940325:AAESwksWO3z5rXDmkGmudgNMPSBBTtsaW6g"
+      "value": "1705535896:AAGAqtDGTygmUZdsChpi9H_Mstqxl3hCwR4"
     },
     "CANAL_Sendvideo":  {
       "description": "CHAT_ID DO CANAL Q VAI RECEBER OS VIDEOS",
